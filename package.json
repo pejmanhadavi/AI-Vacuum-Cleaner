@@ -1,0 +1,16 @@
+{
+  "name": "ai_vocuumcleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pejman Hadavi",
+  "license": "ISC",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "colors": "^1.3.3",
+    "reverse-string": "0.0.6"
+  }
+}
