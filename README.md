@@ -1,9 +1,10 @@
 # AI-Vacuum-Cleaner
-Vacuum-Cleaner with Dynamic rows Dynamic columns in node.js
+Vacuum-Cleaner with Dynamic rows/columns in node.js
 
 ### How to run
 ```bash
 git clone https://github.com/phc613/AI-Vacuum-Cleaner.git
+cd ./AI-Vacuum-Cleaner
 npm i
 node index.js
 ```
